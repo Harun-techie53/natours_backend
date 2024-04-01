@@ -1,0 +1,1211 @@
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:00:06.356Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:00:21.873Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:02:54.019Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:05:30.236Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:05:31.253Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:06:01.405Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:06:02.525Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:06:07.122Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:06:16.242Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T07:06:20.808Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:19:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at urlencodedParser (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/urlencoded.js:91:7)\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:02:33.029Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:20:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:646:15\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:265:14)\n' +
+    '    at Function.handle (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:47:12)',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:20:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:646:15\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:265:14)\n' +
+    '    at Function.handle (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:47:12)'
+}
+{
+  statusCode: 404,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:04:03.699Z',
+  message: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:20:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:646:15\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:265:14)\n' +
+    '    at Function.handle (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:47:12)',
+  stack: 'Error: Not found\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/app.ts:20:18\n' +
+    '    at Layer.handle [as handle_request] (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:328:13)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:286:9\n' +
+    '    at Function.process_params (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:346:12)\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:280:10)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:646:15\n' +
+    '    at next (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:265:14)\n' +
+    '    at Function.handle (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:175:3)\n' +
+    '    at router (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/router/index.js:47:12)'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:04:40.186Z',
+  message: 'Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n' +
+    '    at new NodeError (node:internal/errors:405:5)\n' +
+    '    at ServerResponse.setHeader (node:_http_outgoing:648:11)\n' +
+    '    at ServerResponse.header (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/response.js:795:10)\n' +
+    '    at ServerResponse.send (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/response.js:175:12)\n' +
+    '    at ServerResponse.json (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/response.js:279:15)\n' +
+    '    at Object.sendSuccess (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/apiResponse.service.ts:3:26)\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:11:21',
+  stack: 'Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n' +
+    '    at new NodeError (node:internal/errors:405:5)\n' +
+    '    at ServerResponse.setHeader (node:_http_outgoing:648:11)\n' +
+    '    at ServerResponse.header (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/response.js:795:10)\n' +
+    '    at ServerResponse.send (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/response.js:175:12)\n' +
+    '    at ServerResponse.json (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/express/lib/response.js:279:15)\n' +
+    '    at Object.sendSuccess (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/apiResponse.service.ts:3:26)\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:11:21'
+}
+{
+  statusCode: 400,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:05:04.930Z',
+  message: 'SyntaxError: Unexpected token } in JSON at position 62\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/json.js:92:19)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/read.js:128:18\n' +
+    '    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n' +
+    '    at invokeCallback (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:238:16)\n' +
+    '    at done (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:227:7)\n' +
+    '    at IncomingMessage.onEnd (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:287:7)\n' +
+    '    at IncomingMessage.emit (node:events:517:28)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1400:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)',
+  stack: 'SyntaxError: Unexpected token } in JSON at position 62\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/json.js:92:19)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/read.js:128:18\n' +
+    '    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n' +
+    '    at invokeCallback (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:238:16)\n' +
+    '    at done (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:227:7)\n' +
+    '    at IncomingMessage.onEnd (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:287:7)\n' +
+    '    at IncomingMessage.emit (node:events:517:28)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1400:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)'
+}
+{
+  statusCode: 400,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:05:16.539Z',
+  message: 'SyntaxError: Unexpected token } in JSON at position 62\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/json.js:92:19)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/read.js:128:18\n' +
+    '    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n' +
+    '    at invokeCallback (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:238:16)\n' +
+    '    at done (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:227:7)\n' +
+    '    at IncomingMessage.onEnd (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:287:7)\n' +
+    '    at IncomingMessage.emit (node:events:517:28)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1400:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)',
+  stack: 'SyntaxError: Unexpected token } in JSON at position 62\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/json.js:92:19)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/read.js:128:18\n' +
+    '    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n' +
+    '    at invokeCallback (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:238:16)\n' +
+    '    at done (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:227:7)\n' +
+    '    at IncomingMessage.onEnd (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:287:7)\n' +
+    '    at IncomingMessage.emit (node:events:517:28)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1400:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:05:22.540Z',
+  message: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "password"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "password"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:06:26.341Z',
+  message: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "password"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "password"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:09:36.925Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.create()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  data: {\n' +
+    '    email: "test@gmail.com",\n' +
+    '    username: "test",\n' +
+    '    password: "$2b$10$7w8mhzrtzgojd1eP6eeiDeAvTMLdpRf/a/V3DV4ear6bJOBoZPHQm",\n' +
+    '    level: "userData",\n' +
+    '    ~~~~~\n' +
+    '    label: "jhamelaKom",\n' +
+    '    timestamp: "2024-03-20T21:09:36.908Z",\n' +
+    '?   created_at?: DateTime,\n' +
+    '?   updated_at?: DateTime,\n' +
+    '?   is_active?: Boolean\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Unknown argument `level`. Available options are marked with ?.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.create (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:11:29)\n' +
+    '    at async UserRepository.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:10:29)\n' +
+    '    at async UserService.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:12:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:10:22',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.create()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  data: {\n' +
+    '    email: "test@gmail.com",\n' +
+    '    username: "test",\n' +
+    '    password: "$2b$10$7w8mhzrtzgojd1eP6eeiDeAvTMLdpRf/a/V3DV4ear6bJOBoZPHQm",\n' +
+    '    level: "userData",\n' +
+    '    ~~~~~\n' +
+    '    label: "jhamelaKom",\n' +
+    '    timestamp: "2024-03-20T21:09:36.908Z",\n' +
+    '?   created_at?: DateTime,\n' +
+    '?   updated_at?: DateTime,\n' +
+    '?   is_active?: Boolean\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Unknown argument `level`. Available options are marked with ?.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.create (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:11:29)\n' +
+    '    at async UserRepository.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:10:29)\n' +
+    '    at async UserService.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:12:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:10:22'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:11:22.239Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.create()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  data: {\n' +
+    '    email: "test@gmail.com",\n' +
+    '    username: "test",\n' +
+    '    password: "$2b$10$3wNVsEDwnisJfW1zbjXO2ejQ1kfFcTHT3YFYSc9ZiKiZd02pBBJRG",\n' +
+    '    level: "userData",\n' +
+    '    ~~~~~\n' +
+    '    label: "jhamelaKom",\n' +
+    '    timestamp: "2024-03-20T21:11:22.236Z",\n' +
+    '?   created_at?: DateTime,\n' +
+    '?   updated_at?: DateTime,\n' +
+    '?   is_active?: Boolean\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Unknown argument `level`. Available options are marked with ?.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.create (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:11:29)\n' +
+    '    at async UserRepository.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:10:29)\n' +
+    '    at async UserService.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:12:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:10:22',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.create()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  data: {\n' +
+    '    email: "test@gmail.com",\n' +
+    '    username: "test",\n' +
+    '    password: "$2b$10$3wNVsEDwnisJfW1zbjXO2ejQ1kfFcTHT3YFYSc9ZiKiZd02pBBJRG",\n' +
+    '    level: "userData",\n' +
+    '    ~~~~~\n' +
+    '    label: "jhamelaKom",\n' +
+    '    timestamp: "2024-03-20T21:11:22.236Z",\n' +
+    '?   created_at?: DateTime,\n' +
+    '?   updated_at?: DateTime,\n' +
+    '?   is_active?: Boolean\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Unknown argument `level`. Available options are marked with ?.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.create (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:11:29)\n' +
+    '    at async UserRepository.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:10:29)\n' +
+    '    at async UserService.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:12:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:10:22'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:17:13.178Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.create()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  email: "test@gmail.com",\n' +
+    '  ~~~~~\n' +
+    '  username: "test",\n' +
+    '  password: "$2b$10$PFSDqqjuV.XPHgiMP.97zOeWDQxf/kqYkt39h0XiX0iymrdkEEODa",\n' +
+    '? data?: UserCreateInput | UserUncheckedCreateInput\n' +
+    '}\n' +
+    '\n' +
+    'Unknown argument `email`. Available options are marked with ?.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.create (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:11:29)\n' +
+    '    at async UserRepository.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:10:29)\n' +
+    '    at async UserService.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:10:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:10:22',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.create()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  email: "test@gmail.com",\n' +
+    '  ~~~~~\n' +
+    '  username: "test",\n' +
+    '  password: "$2b$10$PFSDqqjuV.XPHgiMP.97zOeWDQxf/kqYkt39h0XiX0iymrdkEEODa",\n' +
+    '? data?: UserCreateInput | UserUncheckedCreateInput\n' +
+    '}\n' +
+    '\n' +
+    'Unknown argument `email`. Available options are marked with ?.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.create (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:11:29)\n' +
+    '    at async UserRepository.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:10:29)\n' +
+    '    at async UserService.createUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:10:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/controllers/user.controller.ts:10:22'
+}
+{
+  statusCode: 401,
+  isOperational: true,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-20T21:19:04.709Z',
+  message: 'Error: Password Does not Matched\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/auth.service.ts:22:27',
+  stack: 'Error: Password Does not Matched\n' +
+    '    at file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/auth.service.ts:22:27'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T01:48:13.946Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findMany()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  orderBy: undefined,\n' +
+    '  include: {\n' +
+    '    is_active: true\n' +
+    '    ~~~~~~~~~\n' +
+    '  },\n' +
+    '  where: undefined\n' +
+    '}\n' +
+    '\n' +
+    'Invalid scalar field `is_active` for include statement on model User. Available options are marked with ?.\n' +
+    'Note that include statements only accept relation fields.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at e.throwValidationError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:9732)\n' +
+    '    at $m (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:7171)\n' +
+    '    at Mm (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:7060)\n' +
+    '    at Fm (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:6956)\n' +
+    '    at zi (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:6818)\n' +
+    '    at Ya (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:6730)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:11396\n' +
+    '    at Object.runInChildSpan (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:1439)\n' +
+    '    at r._executeRequest (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:11375)',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findMany()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  orderBy: undefined,\n' +
+    '  include: {\n' +
+    '    is_active: true\n' +
+    '    ~~~~~~~~~\n' +
+    '  },\n' +
+    '  where: undefined\n' +
+    '}\n' +
+    '\n' +
+    'Invalid scalar field `is_active` for include statement on model User. Available options are marked with ?.\n' +
+    'Note that include statements only accept relation fields.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at e.throwValidationError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:9732)\n' +
+    '    at $m (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:7171)\n' +
+    '    at Mm (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:7060)\n' +
+    '    at Fm (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:6956)\n' +
+    '    at zi (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:6818)\n' +
+    '    at Ya (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:6730)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:11396\n' +
+    '    at Object.runInChildSpan (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:1439)\n' +
+    '    at r._executeRequest (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:11375)'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T03:51:50.689Z',
+  message: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "name"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "description"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "name"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "description"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T03:51:55.604Z',
+  message: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "name"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "description"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "name"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "description"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5'
+}
+{
+  statusCode: 400,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T03:52:02.567Z',
+  message: 'SyntaxError: Unexpected token } in JSON at position 15\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/json.js:92:19)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/read.js:128:18\n' +
+    '    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n' +
+    '    at invokeCallback (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:238:16)\n' +
+    '    at done (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:227:7)\n' +
+    '    at IncomingMessage.onEnd (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:287:7)\n' +
+    '    at IncomingMessage.emit (node:events:517:28)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1400:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)',
+  stack: 'SyntaxError: Unexpected token } in JSON at position 15\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/types/json.js:92:19)\n' +
+    '    at /media/harun/New Volume/Workspace/Others/natours_app/node_modules/body-parser/lib/read.js:128:18\n' +
+    '    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n' +
+    '    at invokeCallback (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:238:16)\n' +
+    '    at done (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:227:7)\n' +
+    '    at IncomingMessage.onEnd (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/raw-body/index.js:287:7)\n' +
+    '    at IncomingMessage.emit (node:events:517:28)\n' +
+    '    at endReadableNT (node:internal/streams/readable:1400:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T05:42:50.238Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  },\n' +
+    '  include: {\n' +
+    '    user_roles: true\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:34:26)\n' +
+    '    at async UserRepository.getUsersByRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:29:34)\n' +
+    '    at async UserService.getAllUserRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:21:30)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  },\n' +
+    '  include: {\n' +
+    '    user_roles: true\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:34:26)\n' +
+    '    at async UserRepository.getUsersByRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:29:34)\n' +
+    '    at async UserService.getAllUserRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:21:30)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T05:44:23.786Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  },\n' +
+    '  include: {\n' +
+    '    user_roles: true\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:34:26)\n' +
+    '    at async UserRepository.getUsersByRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:29:34)\n' +
+    '    at async UserService.getAllUserRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:21:30)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  },\n' +
+    '  include: {\n' +
+    '    user_roles: true\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:34:26)\n' +
+    '    at async UserRepository.getUsersByRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:29:34)\n' +
+    '    at async UserService.getAllUserRoles (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:21:30)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T06:07:58.230Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  },\n' +
+    '  include: undefined\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:34:26)\n' +
+    '    at async UserRepository.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:20:26)\n' +
+    '    at async UserService.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:25:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  },\n' +
+    '  include: undefined\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:34:26)\n' +
+    '    at async UserRepository.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:20:26)\n' +
+    '    at async UserService.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:25:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-03-24T16:08:45.201Z',
+  message: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:38:26)\n' +
+    '    at async UserRepository.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:20:26)\n' +
+    '    at async UserService.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:25:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25',
+  stack: 'PrismaClientValidationError: \n' +
+    'Invalid `prisma.user.findUnique()` invocation:\n' +
+    '\n' +
+    '{\n' +
+    '  where: {\n' +
+    '    id: 1\n' +
+    '        ~\n' +
+    '  }\n' +
+    '}\n' +
+    '\n' +
+    'Argument `id`: Invalid value provided. Expected String, provided Int.\n' +
+    '    at Tn (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:115:5888)\n' +
+    '    at In.handleRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6510)\n' +
+    '    at In.handleAndLogRequestError (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:6188)\n' +
+    '    at In.request (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:122:5896)\n' +
+    '    at async l (/media/harun/New Volume/Workspace/Others/natours_app/node_modules/@prisma/client/runtime/library.js:127:10871)\n' +
+    '    at async UserRepository.get (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/base.repository.ts:38:26)\n' +
+    '    at async UserRepository.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/repositories/user.repository.ts:20:26)\n' +
+    '    at async UserService.getUser (file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/services/user.service.ts:25:22)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/auth.ts:18:25'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-04-01T00:31:47.972Z',
+  message: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "user_id"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "role_id"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "user_id"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "string",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "role_id"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5'
+}
+{
+  statusCode: 500,
+  isOperational: false,
+  level: 'error',
+  label: 'jhamelaKom',
+  timestamp: '2024-04-01T00:32:38.148Z',
+  message: 'ZodError: [\n' +
+    '  {\n' +
+    '    "validation": "regex",\n' +
+    '    "code": "invalid_string",\n' +
+    '    "message": "Invalid",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "user_id"\n' +
+    '    ]\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "validation": "regex",\n' +
+    '    "code": "invalid_string",\n' +
+    '    "message": "Invalid",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "role_id"\n' +
+    '    ]\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "validation": "regex",\n' +
+    '    "code": "invalid_string",\n' +
+    '    "message": "Invalid",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "user_id"\n' +
+    '    ]\n' +
+    '  },\n' +
+    '  {\n' +
+    '    "validation": "regex",\n' +
+    '    "code": "invalid_string",\n' +
+    '    "message": "Invalid",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "role_id"\n' +
+    '    ]\n' +
+    '  }\n' +
+    ']\n' +
+    '    at get error [as error] (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:538:31)\n' +
+    '    at ZodObject.parseAsync (file:///media/harun/New%20Volume/Workspace/Others/natours_app/node_modules/zod/lib/index.mjs:661:22)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async file:///media/harun/New%20Volume/Workspace/Others/natours_app/src/middlewares/validate.ts:3:5'
+}

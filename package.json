@@ -1,0 +1,45 @@
+{
+  "name": "natours_app",
+  "version": "1.0.0",
+  "description": "It is a tour based app backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "watch:serve": "node --loader ts-node/esm src/server.ts",
+    "start:dev": "nodemon -e ts -w ./src -x npm run watch:serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harun-techie53/natours_backend.git"
+  },
+  "author": "Harunur Rashid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harun-techie53/natours_backend/issues"
+  },
+  "homepage": "https://github.com/Harun-techie53/natours_backend#readme",
+  "dependencies": {
+    "@prisma/client": "^5.11.0",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "http-status": "^1.7.4",
+    "jsonwebtoken": "^9.0.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/http-status": "^1.1.2",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.11.30",
+    "nodemon": "^3.1.0",
+    "prisma": "^5.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2",
+    "winston": "^3.12.0"
+  }
+}

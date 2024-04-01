@@ -1,0 +1,46 @@
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "linux-arm64-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DB_URL")
+}
+
+model User {
+  id         String   @id @unique @default(uuid())
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+  username   String
+  email      String   @unique
+  password   String
+  is_active  Boolean  @default(true)
+
+  user_roles User_Role[]
+
+  @@map("users")
+}
+
+model Role {
+  id          String      @id @unique @default(uuid())
+  created_at  DateTime    @default(now())
+  updated_at  DateTime    @updatedAt
+  name        String
+  description String?
+  user_roles  User_Role[]
+
+  @@map("roles")
+}
+
+model User_Role {
+  user_id String
+  role_id String
+  role    Role   @relation(fields: [role_id], references: [id], onDelete: Cascade)
+  user    User   @relation(fields: [user_id], references: [id], onDelete: Cascade)
+
+  @@id([user_id, role_id])
+  @@index([user_id, role_id])
+  @@index([role_id], map: "user_roles_role_id_fkey")
+  @@map("user_roles")
+}
