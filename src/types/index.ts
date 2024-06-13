@@ -13,7 +13,7 @@ export interface PaginateResponse<T> {
 
 export interface CustomRequest extends Request {
   isAdmin: boolean;
-  currentUser: User;
+  currentUser: Partial<User>;
   pagination: {
     offset: number;
     limit: number;

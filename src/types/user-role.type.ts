@@ -5,7 +5,7 @@ export interface UserRoleDto {
   user_id: string;
 }
 
-export type PrismaUserRoleModel = User_Role;
+export type PrismaUserRoleModel = Partial<User_Role>;
 
 export interface IUserRole {
   role_id: string;

@@ -8,6 +8,12 @@ datasource db {
   url      = env("DB_URL")
 }
 
+enum Difficulty {
+  EASY
+  MEDIUM
+  DIFFICULT
+}
+
 model User {
   id         String   @id @unique @default(uuid())
   created_at DateTime @default(now())
@@ -43,4 +49,49 @@ model User_Role {
   @@index([user_id, role_id])
   @@index([role_id], map: "user_roles_role_id_fkey")
   @@map("user_roles")
+}
+
+model Tour {
+  id           String     @id @unique @default(uuid())
+  created_at   DateTime   @default(now())
+  updated_at   DateTime   @updatedAt
+  name         String
+  duration     Int
+  maxGroupSize Int
+  difficulty   Difficulty
+  price        Int
+  image_cover  String?
+  start_date   String
+
+  tour_locations Tour_Locations[]
+
+  @@map("tours")
+}
+
+model Location {
+  id         String   @id @unique @default(uuid())
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+  name       String
+  latitude   Float
+  longitude  Float
+  address    String?
+  city       String?
+  country    String?
+
+  tour_locations Tour_Locations[]
+
+  @@map("locations")
+}
+
+model Tour_Locations {
+  tour_id     String
+  location_id String
+  tour        Tour     @relation(fields: [tour_id], references: [id], onDelete: Cascade)
+  location    Location @relation(fields: [location_id], references: [id], onDelete: Cascade)
+
+  @@id([tour_id, location_id])
+  @@index([tour_id, location_id])
+  @@index([location_id], map: "tour_locations_location_id_fkey")
+  @@map("tour_locations")
 }

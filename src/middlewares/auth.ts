@@ -21,16 +21,13 @@ export const verifyToken = catchAsync(
         code: httpStatus.UNAUTHORIZED,
       });
     }
-    // const currentUser = await userService.getUser(authData.userId);
-    const currentUser = await userService.getAllUserRoles(authData.userId);
+    const currentUser = await userService.getUser(authData.userId);
 
     if (!currentUser) {
       throw new ApiError(httpStatus.UNAUTHORIZED, "User Not Found");
     }
     currentUser.password = "";
     req.currentUser = currentUser;
-
-    console.log("currentUser", currentUser);
 
     next();
   }

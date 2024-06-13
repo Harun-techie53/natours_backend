@@ -12,7 +12,9 @@ export interface IUser {
   user_roles?: any;
 }
 
-export type PrismaUserModel = User;
+export type PrismaUserModel = Partial<User> & {
+  user_roles?: any;
+};
 
 export interface UserLoginDto {
   email: string;

@@ -13,4 +13,4 @@ export interface IRole {
   updated_at?: Date;
 }
 
-export type PrismaRoleModel = Role;
+export type PrismaRoleModel = Partial<Role>;

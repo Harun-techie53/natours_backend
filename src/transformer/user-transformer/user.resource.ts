@@ -4,9 +4,14 @@ import { Transformer } from "../transformer.js";
 class UserResource implements Transformer {
   transform(transformerDataInput: PrismaUserModel): IUser {
     return {
-      id: transformerDataInput.id,
-      email: transformerDataInput.email,
-      username: transformerDataInput.username,
+      id: transformerDataInput.id ? transformerDataInput.id : "",
+      email: transformerDataInput.email ? transformerDataInput.email : "",
+      username: transformerDataInput.username
+        ? transformerDataInput.username
+        : "",
+      user_roles: transformerDataInput.user_roles
+        ? transformerDataInput.user_roles
+        : "",
     };
   }
 }

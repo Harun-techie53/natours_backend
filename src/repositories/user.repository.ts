@@ -43,17 +43,17 @@ export default class UserRepository extends BaseRepository<DbType> {
     }
   }
 
-  public async getUsersByRoles(userId: string): Promise<IUser> {
-    try {
-      const usersByRoles = await this.get(userId, userResource.transform, {
-        include: { user_roles: true },
-      });
+  // public async getUsersByRoles(userId: string): Promise<IUser> {
+  //   try {
+  //     const usersByRoles = await this.get<>(userId, userResource.transform, {
+  //       include: { user_roles: true },
+  //     });
 
-      return usersByRoles;
-    } catch (error) {
-      throw error;
-    }
-  }
+  //     return usersByRoles;
+  //   } catch (error) {
+  //     throw error;
+  //   }
+  // }
 
   public async findByEmail(paylodEmail: string): Promise<User | null> {
     try {

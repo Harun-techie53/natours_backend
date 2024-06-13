@@ -30,11 +30,11 @@ export default class UserService {
     return users;
   }
 
-  public async getAllUserRoles(userId: string): Promise<IUser> {
-    const usersByRoles = await this.userRepo.getUsersByRoles(userId);
+  // public async getAllUserRoles(userId: string): Promise<IUser> {
+  //   const usersByRoles = await this.userRepo.getUsersByRoles(userId);
 
-    return usersByRoles;
-  }
+  //   return usersByRoles;
+  // }
 
   public async getUser(userId: string): Promise<IUser> {
     const user = await this.userRepo.getUser(userId);
